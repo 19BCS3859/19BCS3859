@@ -29,6 +29,8 @@ I've been learning code for 6 years. During my 2nd year of Engineering course. I
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+Please care to reach my primary github account
+---------------------------------------
 
 ### Socials
 
